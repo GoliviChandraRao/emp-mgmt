@@ -56,7 +56,7 @@ margin: 0 auto;
 
   <h4> Previously saved employees list:</h4>
 
-<table id="employees">
+<table id="employees" style="width:100%">
   <tr>
     <th>SI #</th>
     <th>Full Name</th>
